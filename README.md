@@ -1,2 +1,2 @@
-# ai-manager-bot
+# NexusAIoocw
 AI Sales Manager landing page
